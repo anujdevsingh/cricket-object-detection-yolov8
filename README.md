@@ -173,6 +173,12 @@ Modify training parameters in `train_yolov8.py`:
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
+## 👨‍💻 Author
+
+**Anuj Dev Singh**
+- Project Creator & Lead Developer
+
+
 ## 📋 Requirements
 
 - Python 3.8+
